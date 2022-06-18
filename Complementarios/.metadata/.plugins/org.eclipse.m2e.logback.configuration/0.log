@@ -1,0 +1,6 @@
+2022-05-29 03:35:07,514 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-05-29 03:59:55,324 [Worker-20: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ejemplo:nuevoProyecto:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\ProyMaven\HolaMundo\pom.xml.
+2022-05-29 03:59:59,458 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-29 03:59:59,459 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\ProyMaven\HolaMundo\src\main\resources
+2022-05-29 03:59:59,464 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-29 03:59:59,464 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\ProyMaven\HolaMundo\src\test\resources
